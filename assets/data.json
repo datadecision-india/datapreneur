@@ -1,12 +1,230 @@
 [
-
-
     {
-
-        "question":"What is Pyspark?"
+        "question": "What is Python?",
+        "company": "Acme Corporation"
     },
     {
-
-        "question":"What is SQL ?"
+        "question": "Explain the concept of OOP.",
+        "company": "Tech Innovators"
+    },
+    {
+        "question": "How does a blockchain work?",
+        "company": "Digital Solutions Inc."
+    },
+    {
+        "question": "Define RESTful API.",
+        "company": "InnovateTech"
+    },
+    {
+        "question": "What is the difference between AI and machine learning?",
+        "company": "Data Insights Co."
+    },
+    {
+        "question": "Describe the importance of data encryption.",
+        "company": "Secure Systems Ltd."
+    },
+    {
+        "question": "What are the key features of ReactJS?",
+        "company": "Web Wizards"
+    },
+    {
+        "question": "Explain the CAP theorem in distributed systems.",
+        "company": "Cloud Solutions Corp."
+    },
+    {
+        "question": "How does a neural network function in deep learning?",
+        "company": "Neural Dynamics"
+    },
+    {
+        "question": "Define DevOps and its benefits.",
+        "company": "Agile Innovations"
+    },
+    {
+        "question": "What is the role of a database administrator?",
+        "company": "Data Management Experts"
+    },
+    {
+        "question": "Explain the concept of virtualization.",
+        "company": "VirtualTech Solutions"
+    },
+    {
+        "question": "What is the significance of Big Data in business analytics?",
+        "company": "Analytics Insights Group"
+    },
+    {
+        "question": "Describe the MVC architecture in web development.",
+        "company": "WebMasters Co."
+    },
+    {
+        "question": "How does the Internet of Things (IoT) impact industries?",
+        "company": "IoT Innovations"
+    },
+    {
+        "question": "Define cloud computing and its deployment models.",
+        "company": "CloudTech Solutions"
+    },
+    {
+        "question": "What are the security measures in web applications?",
+        "company": "SecureWeb Systems"
+    },
+    {
+        "question": "Explain the concept of version control in software development.",
+        "company": "CodeControl Solutions"
+    },
+    {
+        "question": "How do you optimize a website for performance?",
+        "company": "Performance Optimization Co."
+    },
+    {
+        "question": "Define the term 'agile methodology' in project management.",
+        "company": "Agile Project Solutions"
+    },
+    {
+        "question": "What is the role of a product manager in a software company?",
+        "company": "ProductVision Ltd."
+    },
+    {
+        "question": "Explain the difference between synchronous and asynchronous communication.",
+        "company": "CommunicationTech Inc."
+    },
+    {
+        "question": "What are the key features of a NoSQL database?",
+        "company": "NoSQL Innovations"
+    },
+    {
+        "question": "Describe the advantages of microservices architecture.",
+        "company": "Microservices Tech"
+    },
+    {
+        "question": "How does the concept of continuous integration enhance software development?",
+        "company": "CI/CD Solutions"
+    },
+    {
+        "question": "Define the term 'scalability' in the context of software systems.",
+        "company": "ScalableTech Co."
+    },
+    {
+        "question": "Explain the importance of user experience (UX) design in web development.",
+        "company": "UXDesign Studios"
+    },
+    {
+        "question": "What is the role of a data scientist in data-driven decision-making?",
+        "company": "DataScience Innovations"
+    },
+    {
+        "question": "Describe the components of a typical software stack.",
+        "company": "StackTech Solutions"
+    },
+    {
+        "question": "How does a content delivery network (CDN) improve website performance?",
+        "company": "CDN Solutions Inc."
+    },
+    {
+        "question": "Define the term 'containerization' and its advantages.",
+        "company": "ContainerTech Co."
+    },
+    {
+        "question": "What are the key principles of responsive web design?",
+        "company": "ResponsiveWeb Tech"
+    },
+    {
+        "question": "Explain the concept of data normalization in databases.",
+        "company": "Normalization Systems"
+    },
+    {
+        "question": "How does the concept of 'fail fast' apply in agile development?",
+        "company": "AgileFailFast Solutions"
+    },
+    {
+        "question": "Define the term 'blockchain' and its applications.",
+        "company": "Blockchain Innovations"
+    },
+    {
+        "question": "What is the significance of A/B testing in marketing?",
+        "company": "Marketing Insights Group"
+    },
+    {
+        "question": "Explain the concept of cross-platform development in mobile app development.",
+        "company": "CrossPlatform Apps"
+    },
+    {
+        "question": "Describe the key features of a good code review process.",
+        "company": "CodeReview Solutions"
+    },
+    {
+        "question": "How does the concept of 'dark mode' improve user experience in applications?",
+        "company": "DarkMode Tech"
+    },
+    {
+        "question": "Define the term 'machine learning model deployment' and its challenges.",
+        "company": "ML Deployment Co."
+    },
+    {
+        "question": "What are the security considerations in e-commerce websites?",
+        "company": "EcommerceSecurity Solutions"
+    },
+    {
+        "question": "Explain the concept of a 'tech stack' in software development.",
+        "company": "TechStack Innovations"
+    },
+    {
+        "question": "How does the use of CDN impact website loading times?",
+        "company": "FastLoad Solutions"
+    },
+    {
+        "question": "Define the term 'agile sprint' and its purpose in project management.",
+        "company": "AgileSprint Co."
+    },
+    {
+        "question": "What is the role of a data engineer in big data processing?",
+        "company": "BigData Engineering Solutions"
+    },
+    {
+        "question": "Explain the principles of good UX design in mobile applications.",
+        "company": "MobileUXDesign Studios"
+    },
+    {
+        "question": "How does the concept of 'feature toggle' enhance software development?",
+        "company": "FeatureToggle Tech"
+    },
+    {
+        "question": "Define the term 'load balancing' and its importance in web server management.",
+        "company": "LoadBalancing Solutions"
+    },
+    {
+        "question": "What are the key considerations in choosing a cloud service provider?",
+        "company": "CloudProvider Selection Co."
+    },
+    {
+        "question": "Explain the concept of 'pair programming' and its benefits.",
+        "company": "PairProgramming Solutions"
+    },
+    {
+        "question": "How does the use of a content management system (CMS) simplify website maintenance?",
+        "company": "CMS Solutions Inc."
+    },
+    {
+        "question": "Define the term 'cybersecurity' and its role in protecting digital assets",
+        "company": "Secure Systems Ltd."
+    },
+    {
+        "question": "Explain the concept of virtualization.",
+        "company": "VirtualTech Solutions"
+    },
+    {
+        "question": "What is the significance of Big Data in business analytics?",
+        "company": "Analytics Insights Group"
+    },
+    {
+        "question": "Describe the MVC architecture in web development.",
+        "company": "WebMasters Co."
+    },
+    {
+        "question": "How does the Internet of Things (IoT) impact industries?",
+        "company": "IoT Innovations"
+    },
+    {
+        "question": "Define cloud computing and its deployment models.",
+        "company": "CloudTech Solutions"
     }
 ]
